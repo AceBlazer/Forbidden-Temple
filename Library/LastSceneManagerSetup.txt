@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/a supprimer.unity
+  isLoaded: 1
+  isActive: 1

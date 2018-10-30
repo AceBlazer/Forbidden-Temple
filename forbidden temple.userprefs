@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\minion.js">
+    <Files>
+      <File FileName="Assets\minionStats.cs" Line="1" Column="1" />
+      <File FileName="Assets\callshop.cs" Line="1" Column="1" />
+      <File FileName="Assets\shop.cs" Line="1" Column="1" />
+      <File FileName="Assets\playerbasic1.cs" Line="64" Column="5" />
+      <File FileName="Assets\minion.js" Line="37" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
